@@ -1,5 +1,7 @@
 -e git://github.com/django/django@f9ab543720532400e8b0d490cdbe67ea09ae9c17#egg=Django-dev
 distribute==0.6.31
 gevent==0.13.8
+-e git://github.com/abourget/gevent-socketio.git@47ee7a14805e89e98f2cdd0fd72d199ccc0fe944#egg=gevent_socketio-dev
+gevent-websocket==0.3.6
 greenlet==0.4.0
 wsgiref==0.1.2
