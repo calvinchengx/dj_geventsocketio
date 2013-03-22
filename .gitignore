@@ -1,4 +1,8 @@
 *.py[cod]
+.*.s[a-w][a-z]
+.sw*
+*.bak
+.DS_Store
 
 # C extensions
 *.so
