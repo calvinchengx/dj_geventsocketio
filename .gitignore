@@ -3,6 +3,7 @@
 .sw*
 *.bak
 .DS_Store
+*.sqlite3
 
 # C extensions
 *.so
