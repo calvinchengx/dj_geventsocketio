@@ -1,0 +1,5 @@
+-e git://github.com/django/django@f9ab543720532400e8b0d490cdbe67ea09ae9c17#egg=Django-dev
+distribute==0.6.31
+gevent==0.13.8
+greenlet==0.4.0
+wsgiref==0.1.2
